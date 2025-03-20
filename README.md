@@ -194,7 +194,20 @@ Start the Streamlit app:
 
 * Use t-SNE for better high-dimensional visualization.
 
-* Add user authentication for personalized analysis.
+* Add user authentication for personalized analysis.<br>
+
+
+<h2>SnapShots</h2>
+
+
+
+<img src ="https://github.com/user-attachments/assets/90519a3c-2af5-400a-94b6-299447742abf" width="600">
+
+<img src ="https://github.com/user-attachments/assets/cc12a707-dedb-4a76-8002-47e55df26fc3" width="600">
+
+<img src = "https://github.com/user-attachments/assets/db0170fe-3789-4cde-b597-5f0755b5f2df" width="600">
+
+
 
 
 

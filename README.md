@@ -17,7 +17,7 @@
 
 * Real-time Analysis – Allows real-time cluster analysis through API.
 
-* Interactive Frontend – Built with Streamlit for easy interaction and visualization.</h4>
+* Interactive Frontend – Built with Streamlit for easy interaction and visualization.</h4><br>
 
 
 <h2><b>📁 Project Structure</b></h2>
@@ -49,6 +49,22 @@
    * Create a `data` folder in the root directory:
 
    * Add `customer_data.csv` with sample data:
+  
+
+<br>
+<h2>Structure</h2>
+
+```
+<h2>customer-journey-analysis/
+├── backend/
+│   └── main.py
+├── frontend/
+│   ├── app.py
+│   └── data.csv
+├── venv/
+└── requirements.txt</h2>
+
+```
   
 
 <br><h2><b>▶️ Running the Project</b></h2>
